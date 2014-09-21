@@ -33,7 +33,6 @@
       // find the record using songNumber
       var song = this.recordList[songNumber];
 
-      // console log that we are playing the song
       return "Current song playing is " + song.getRecord();
     }
 

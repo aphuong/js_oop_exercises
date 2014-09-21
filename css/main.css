@@ -1,0 +1,26 @@
+html { 
+  background: url(../images/oop-basics.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body { 
+  margin-top: 10px;
+  margin-left: 25px;
+  font-family: Helvetica;
+  color: #fff;
+  line-height: 25px;
+}
+
+header {
+  text-align: center;
+  font-size: 25px;
+}
+
+
+
+
+
+
